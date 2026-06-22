@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
