@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool checkPalindrome(string s, int i, int j) {
+    bool checkPalindrome(string &s, int i, int j) {
         int n = s.length();
         while (i < j) {
             if (s[i] != s[j]) {
