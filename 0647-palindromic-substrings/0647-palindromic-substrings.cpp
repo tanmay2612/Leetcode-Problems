@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-int checkPalindrome(string s, int i, int j){
+int checkPalindrome(string &s, int i, int j){
     int count=0;
     while(i>=0 && j<=s.length()-1 && s[i]==s[j]){
         count++;
