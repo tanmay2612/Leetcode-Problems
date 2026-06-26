@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string maxlength(string s, int i, int j) {
+    string maxlength(string &s, int i, int j) {
 
         int n = s.length();
         while (i >= 0 && j < n && s[i] == s[j]) {
@@ -10,7 +10,7 @@ public:
         return s.substr(i + 1, j - i - 1);
     }
 
-    string longestPalindrome(string &s) {
+    string longestPalindrome(string s) {
         int n = s.length();
         string ans = "";
         for (int c = 0; c < n; c++) {
