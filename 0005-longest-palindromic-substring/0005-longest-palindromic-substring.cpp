@@ -10,7 +10,7 @@ public:
         return s.substr(i + 1, j - i - 1);
     }
 
-    string longestPalindrome(string s) {
+    string longestPalindrome(string &s) {
         int n = s.length();
         string ans = "";
         for (int c = 0; c < n; c++) {
