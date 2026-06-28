@@ -91,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
