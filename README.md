@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0791-custom-sort-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0791-custom-sort-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
