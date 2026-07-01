@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
