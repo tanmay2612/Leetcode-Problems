@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Bit Manipulation
