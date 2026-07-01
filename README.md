@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0392-is-subsequence) |
