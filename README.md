@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0791-custom-sort-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0415-add-strings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
