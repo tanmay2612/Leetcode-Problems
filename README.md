@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0791-custom-sort-string) |
+| [0796-rotate-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
