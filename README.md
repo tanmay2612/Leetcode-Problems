@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2325-decode-the-message](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2325-decode-the-message) |
 ## Matrix
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2325-decode-the-message](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2325-decode-the-message) |
