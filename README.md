@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0767-reorganize-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 ## String
@@ -153,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0767-reorganize-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
