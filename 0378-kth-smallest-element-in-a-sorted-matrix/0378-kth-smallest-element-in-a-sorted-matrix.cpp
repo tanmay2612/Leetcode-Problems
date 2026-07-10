@@ -9,11 +9,7 @@ public:
             }
         }
         sort(nums.begin(),nums.end());
-        for(int i=0;i<nums.size();i++){
-            if(i==k-1){
-                return nums[i];
-            }
-        }
-        return -1;
+        
+        return nums[k-1];
     }
 };
