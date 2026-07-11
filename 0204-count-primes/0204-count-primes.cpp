@@ -9,7 +9,7 @@ public:
        for(int i=2;i<n;i++){
         if(prime[i]){
             count++;
-            int j=2*i;
+            long long int j=1LL *i*i;
              while(j<n){
                  prime[j]=false;
                  j+=i;
