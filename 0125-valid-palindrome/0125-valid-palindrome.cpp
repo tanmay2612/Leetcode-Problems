@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-string ValidString(string s){
+string ValidString(string &s){
     string ans="";
     for(int i=0;i<s.size();i++){
         if(s[i]>='A' && s[i]<='Z'){
@@ -22,7 +22,7 @@ string ValidString(string s){
     }
     return ans;
 }
-bool checkPalindrome(string ans, int n){
+bool checkPalindrome(string &ans, int n){
     for(int i=0;i<n;i++){
         if(ans[i]!=ans[n-i-1]){
             return false;
