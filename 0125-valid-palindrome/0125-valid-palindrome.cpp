@@ -23,7 +23,7 @@ string ValidString(string &s){
     return ans;
 }
 bool checkPalindrome(string &ans, int n){
-    for(int i=0;i<n;i++){
+    for(int i=0;i<n/2;i++){
         if(ans[i]!=ans[n-i-1]){
             return false;
         }
