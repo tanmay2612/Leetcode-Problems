@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
