@@ -5,7 +5,7 @@ public:
         vector <vector<string>> ans;
         for(string &str : strs){
             vector<int> freq(150,0);
-            for(char ch : str){
+            for(char &ch : str){
                 freq[ch]++;
             }
             string key="";
