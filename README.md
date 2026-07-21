@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Stack
 |  |
 | ------- |
