@@ -3,7 +3,6 @@ public:
     bool check(vector<int>& nums) {
 
         int n = nums.size();
-        bool ans=false;
 
         if(n<=2){
             return true;
@@ -11,10 +10,7 @@ public:
 
        int count=0;
         for (int i = 0; i < n - 1; i++) {
-            if(nums[i]<=nums[i+1]){
-                ans=true;
-            }
-            else{
+            if(nums[i]>nums[i+1]){
                 count++;
             }
         }
@@ -25,7 +21,7 @@ public:
             return false;
         }
        
-        return ans;
+        return true;
 
 
 
