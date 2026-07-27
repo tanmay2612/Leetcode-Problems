@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0767-reorganize-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0767-reorganize-string) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
