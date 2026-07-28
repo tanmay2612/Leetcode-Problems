@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
