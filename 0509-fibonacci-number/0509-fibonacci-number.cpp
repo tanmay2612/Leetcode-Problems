@@ -1,15 +1,22 @@
 class Solution {
 public:
     int fib(int n) {
-        vector<int> ans(n+1,0);
-         if(n<1){
-            return 0;
+
+        if(n<=1){
+            return n;
         }
-        ans[0]=0;
-        ans[1]=1;
+
+        int prev2=0;
+        int prev1=1;
+        int curr=0;
+        
         for(int i=2;i<=n;i++){
-            ans[i]=ans[i-1]+ans[i-2];
+            curr=prev2+prev1;
+            prev2=prev1;
+            prev1=curr;
         }
-        return ans[n];
+
+        return curr;
+
     }
 };
