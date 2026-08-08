@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0229-majority-element-ii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0767-reorganize-string) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -276,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
