@@ -285,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
