@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
