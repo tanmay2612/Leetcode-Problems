@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2325-decode-the-message) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2325-decode-the-message](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
