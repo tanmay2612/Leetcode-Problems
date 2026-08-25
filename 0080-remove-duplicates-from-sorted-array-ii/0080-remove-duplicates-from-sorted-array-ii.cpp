@@ -5,14 +5,12 @@ public:
         if(n<=2){
             return n;
         }
-        int i=2;
         int j=2;
-        while(i<n){
-            if(i>=j && nums[i]!=nums[j-2]){
-                 nums[j]=nums[i];
-                 j++;
-            }
-            i++;
+        for(int i=2;i<n;i++){
+           if(nums[j-2]!=nums[i]){
+            nums[j]=nums[i];
+            j++;
+           }
         }
         return j;
     }
