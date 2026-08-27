@@ -37,8 +37,8 @@ public:
             return "Zero";
         }
         for (auto it : mp) {
-            string a = "";
             if (num >= it.first) {
+                string a = "";
                 if (it.first >= 100) {
                     a = numberToWords(num / it.first) + " ";
                 }
