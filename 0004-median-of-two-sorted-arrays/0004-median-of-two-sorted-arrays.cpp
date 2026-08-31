@@ -3,7 +3,7 @@ public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
         int m = nums2.size();
-        float ans = 0;
+        double ans = 0;
         vector<double> temp;
         int i = 0;
         int j = 0;
