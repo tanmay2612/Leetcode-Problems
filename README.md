@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0767-reorganize-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |
