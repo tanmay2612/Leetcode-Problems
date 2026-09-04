@@ -1,0 +1,22 @@
+class Solution {
+public:
+    string intToRoman(int num) {
+        string ans = "";
+        vector<pair<int, string>> mp = {
+            {1000, "M"}, {900, "CM"}, {500, "D"}, {400, "CD"}, {100, "C"},
+            {90, "XC"},  {50, "L"},   {40, "XL"}, {10, "X"},   {9, "IX"},
+            {5, "V"},    {4, "IV"},   {1, "I"}};
+        while (num > 0) {
+            for (auto it : mp) {
+                if (num >= it.first) {
+                    int loop = num / it.first;
+                    num %= it.first;
+                    for (int i = 0; i < loop; i++) {
+                        ans+=it.second;
+                    }
+                }
+            }
+        }
+        return ans;
+    }
+};
