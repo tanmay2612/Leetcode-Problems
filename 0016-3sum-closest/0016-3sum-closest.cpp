@@ -14,7 +14,10 @@ public:
                     ans=sum;
                     diff=abs(sum-target);
                 }
-                if(sum<=target){
+                if(sum==target){
+                    return sum;
+                }
+                if(sum<target){
                      j++;
                 }
                 else{
