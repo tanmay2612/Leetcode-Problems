@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -210,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
