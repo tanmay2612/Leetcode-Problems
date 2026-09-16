@@ -346,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
