@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2325-decode-the-message) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Game Theory
 |  |
 | ------- |
