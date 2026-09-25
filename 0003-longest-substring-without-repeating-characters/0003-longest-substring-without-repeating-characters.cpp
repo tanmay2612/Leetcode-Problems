@@ -4,6 +4,7 @@ public:
         int n=s.size();
         int left=0;
         int size=0;
+        string ans="";
         unordered_map<char,int> mp;
         for(int right=0;right<n;right++){
             if(mp.find(s[right])==mp.end()){
@@ -17,8 +18,12 @@ public:
             mp[s[right]]=right;
             }
             int curr=right-left+1;
-            size=max(size,curr);
+          if(curr>size){
+            size=curr;
+            ans=s.substr(left,size);
+          }
         }
+        cout<<ans;
         return size;
     }
 };
