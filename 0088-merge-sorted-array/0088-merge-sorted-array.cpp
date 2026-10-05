@@ -16,7 +16,6 @@ public:
                 nums1[k] = nums2[j];
                 j--;
             }
-
             k--;
         }
         while(j>=0){
@@ -24,5 +23,6 @@ public:
             k--;
             j--;
         }
+        
     }
 };
