@@ -21,7 +21,6 @@ public:
             if (odd.length() > ans.length()) {
                 ans = odd;
             }
-
             string even = maxlength(s, c, c + 1);
             if (even.length() > ans.length()) {
                 ans = even;
