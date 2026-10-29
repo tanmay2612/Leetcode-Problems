@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/tanmay2612/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -386,5 +388,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1603-design-parking-system](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
