@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0706-design-hashmap](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/tanmay2612/Leetcode-Problems/tree/master/1603-design-parking-system) |
 ## Randomized
 |  |
@@ -407,4 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/tanmay2612/Leetcode-Problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
